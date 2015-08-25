@@ -25,29 +25,29 @@
 	<key>DocIcon</key>
 	<string></string>
 	<key>Droppable</key>
-	<false/>
+	<true/>
 	<key>ExecutablePath</key>
 	<string>/usr/local/share/platypus/ScriptExec</string>
 	<key>IconPath</key>
 	<string>/tmp/PlatypusIcon.icns</string>
 	<key>Identifier</key>
-	<string>com.eliotlash.Securedelete</string>
+	<string>com.eliotlash.SecureDelete</string>
 	<key>Interpreter</key>
 	<string>/bin/bash</string>
 	<key>InterpreterArgs</key>
 	<array/>
 	<key>Name</key>
-	<string>Securedelete</string>
+	<string>SecureDelete</string>
 	<key>NibPath</key>
 	<string>/usr/local/share/platypus/MainMenu.nib</string>
 	<key>OptimizeApplication</key>
 	<true/>
 	<key>Output</key>
-	<string>Progress Bar</string>
+	<string>Droplet</string>
 	<key>PromptForFileOnLaunch</key>
 	<false/>
 	<key>RemainRunning</key>
-	<true/>
+	<false/>
 	<key>Role</key>
 	<string>Viewer</string>
 	<key>ScriptArgs</key>
